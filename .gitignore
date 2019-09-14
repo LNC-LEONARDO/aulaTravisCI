@@ -102,3 +102,4 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+/src/.vs/src/v15/Server/sqlite3
